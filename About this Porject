@@ -1,0 +1,10 @@
+# Bike-Sharing-with-Spark
+Apache Spark and Scala Certification Training Project
+
+Apache Spark and Scala Certification Training Course for Data Science Master Program
+
+Building a Bicycle Sharing demand forecasting service that combines historical
+usage patterns with weather data to forecast the Bicycle rental demand in real-time. To
+develop this system, you must first explore the dataset and build a model. Once it’s done
+you must persist the model and then on each request run a Spark job to load the model
+and make predictions on each Spark Streaming request.
